@@ -1,0 +1,5 @@
+Proje: Uzay Oyunu
+Amaç: Uzay aracımızla yol alırken karşımıza çıkan engelleri aşmak.
+Açıklama: Oyunu başlattıktan sonra yukarıdan göktaşları düşmeye başlayacaktır.
+Bu göktaşlarını aracınızı sağa sola kaydırarak geçmeye çalışın.
+İlerledikçe puan kazanacaksınız ve aracınız hızlanmaya başlayacaktır.
