@@ -1,9 +1,18 @@
 # UzayYolcusu
-Uzay Yolcusu Android Oyunu
+Proje: Uzay Oyunu
 
-Yazılım Proje Yönetimi Dersi için hazırlamış olduğum projedir.
+Amaç: Uzay aracımızla yol alırken karşımıza çıkan engelleri aşmak.
 
-Unity ile geliştirilmiş HyperCasual oyundur.
+Açıklama: Oyunu başlattıktan sonra yukarıdan göktaşları düşmeye başlayacaktır.
+Bu göktaşlarını aracınızı sağa sola sürükleyerek geçmeye çalışın.
+İlerledikçe puan kazanacaksınız ve aracınız hızlanmaya başlayacaktır.
+Yukarıdan düşen araç parçasını topladığınızda canınız artacaktır
+ve aracınızın rengi kırmızı olacaktır.
+Tek canınız kaldığında aracınız tekrar mavi olacaktır.
 
-Oyunda aracımızı sağa sola kaydırarak gök cisimlerine çarpmadan ilerleyerek maksimum puanı kazanmayı amaçlıyoruz.
-Yakıt tüplerini topladıkça aracımızın canı artacaktır.
+Her kodun altında açıklamaları mevcuttur.
+
+Tüm ögeler internetteki telifsiz ögeler içerisinden seçilmiştir.
+
+Oyunu oynayabilmek için;
+ Uzay Yolcusu.apk dosyasını Android cihazınıza yükleyip çalıştırın.
